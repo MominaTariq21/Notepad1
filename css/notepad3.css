@@ -3,7 +3,7 @@ body {
 }
 
 .app {
-	background: #ccd6e5 url(/img/bg.svg) no-repeat center center;
+	background: #ccd6e5 url(../bg.svg) no-repeat center center;
 }
 
 .hidden {
@@ -79,7 +79,7 @@ h1 {
 }
 
 
-.content {
+/* .content {
 	max-width: 1230px;
 	padding: 2rem;
-}
+} */
